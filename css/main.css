@@ -1,1 +1,69 @@
 /* Place CSS styles here */
+/* Place CSS styles here */
+main {
+    flex: 1;
+    background: rgb(251, 1, 255);
+  }
+  
+  
+  .satisfy-regular {
+    display: flex;
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+  .pre-bday-inner {
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "XROT" 0,
+      "YROT" 0;
+  }
+  
+  .top_title {
+    margin-top: 0;
+  }
+  
+  
+  h1 {
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    background-image: linear-gradient(to bottom right, rgb(0, 229, 255), rgb(252, 117, 243));
+    color:aliceblue;
+  }
+  
+  .pre-bday-outer {
+    background-color: #92f39c;}
+  
+  .pre-bday-inner {
+    font-size: 17px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .pre-bday-row {
+    display: flex;
+    gap: 20px;
+    color:#ff00c3; 
+  }
+  
+  .pre-bday-meta {
+    font-size: 50px;
+    color:blueviolet;
+  
+  
+  }
+  
+  
+  .intro-para {
+    font-size: 20px;
+    color:black;
+  
+  }
